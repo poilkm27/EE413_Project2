@@ -1,5 +1,8 @@
-torch>=2.0.0
-torchvision>=0.15.0
-numpy>=1.22.6
-pillow>=9.0.0
-PyWavelets>=1.4.1
+torch
+torchvision
+numpy
+scipy
+PyWavelets
+scikit-learn
+matplotlib
+pillow
